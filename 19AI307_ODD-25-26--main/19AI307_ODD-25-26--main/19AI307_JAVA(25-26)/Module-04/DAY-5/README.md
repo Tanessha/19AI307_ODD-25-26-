@@ -4,7 +4,7 @@
 Create a ChatRoom class (mediator) and two users (colleagues) who send and receive messages through it. No direct communication allowed.
 
 ## AIM:
-
+To create a ChatRoom class (mediator) and two users (colleagues) who send and receive messages through it. No direct communication allowed.
 
 ## ALGORITHM :
 1. Create a ChatRoom class that holds a collection of users, registers users using registerUser(), delivers messages using sendMessage(from, to, message).
@@ -19,15 +19,12 @@ Create a ChatRoom class (mediator) and two users (colleagues) who send and recei
 
 6. Ensure all communication happens only through the mediator (ChatRoom), not directly between users.
 
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a  Pattern using Java
-Developed by: DHINESH R 
-RegisterNumber: 212223220019 
+Developed by: Tanessha Kannan
+RegisterNumber: 212223040225 
 */
 ```
 
@@ -103,13 +100,10 @@ public class ChatApp {
 }
 ```
 
-
 ## OUTPUT:
 <img width="1143" height="846" alt="image" src="https://github.com/user-attachments/assets/e6ccf91b-1c65-4d94-bfdc-ddf4f68b9ad1" />
-
-
-
 ## RESULT:
 Therefore the program successfully demonstrates message exchange using the Mediator Pattern, with all user communication routed through the ChatRoom.
+
 
 
