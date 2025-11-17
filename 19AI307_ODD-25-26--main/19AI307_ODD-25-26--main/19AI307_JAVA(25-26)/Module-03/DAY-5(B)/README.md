@@ -21,15 +21,12 @@ To write a Java program that checks whether a given number is prime by using the
 
 7. Close the scanner.
 
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: DHINESH R
-RegisterNumber: 212223220019 
+Developed by: Tanessha Kannan
+RegisterNumber: 212223040225 
 */
 ```
 
@@ -73,19 +70,12 @@ public class PrimeChecker {
     }
 }
 ```
-
-
-
-
-
-
 ## OUTPUT:
 <img width="893" height="258" alt="image" src="https://github.com/user-attachments/assets/2cfce946-0ad1-43c0-a0b9-9f1d4d27a34b" />
 
-
-
 ## RESULT:
 Therefore the program successfully checks if the input number is a prime using the Integer wrapper class.
+
 
 
 
