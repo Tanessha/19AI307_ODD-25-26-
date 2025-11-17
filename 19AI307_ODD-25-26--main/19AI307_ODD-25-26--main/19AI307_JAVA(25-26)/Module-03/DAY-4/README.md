@@ -33,15 +33,12 @@ To design a unified controller system using Java Interfaces where different gami
 
 6. Call the three methods (jump, shoot, pause) to demonstrate polymorphism.
 
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a Interface using Java
-Developed by: DHINESH R
-RegisterNumber: 212223220019
+Developed by: Tanessha Kannan
+RegisterNumber: 212223040225
 */
 ```
 
@@ -131,13 +128,9 @@ public class GameInputSimulator {
 }
 
 ```
-
-
-
-
 ## OUTPUT:
 <img width="821" height="293" alt="image" src="https://github.com/user-attachments/assets/77adba3b-7948-47f4-a6ed-f87b7e0eb83b" />
 
-
 ## RESULT:
 Therefore the program successfully unifies different gaming controllers using a common interface.
+
