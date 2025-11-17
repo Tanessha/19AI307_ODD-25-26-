@@ -32,12 +32,6 @@ To write a Java program that accepts a code number and determines the security l
 5. If 'code' is odd:
      - Print "Access Denied".
 6. End the program.
-
-
-
-
-
-
 ## PROGRAM:
  ```
 /*
@@ -46,7 +40,6 @@ Developed by: Tanessha Kannan
 RegisterNumber: 212223040225
 */
 ```
-
 ## SOURCE CODE:
 ```
 import java.util.Scanner;
@@ -71,16 +64,13 @@ public class PirateCodeLock {
         }
     }
 }
-
 ```
-
-
 ## OUTPUT:
 <img width="1253" height="395" alt="image" src="https://github.com/user-attachments/assets/4a2d9365-69a5-452d-bc72-f619377d3b5a" />
 
-
 ## RESULT:
 Therefore,the program has been executed successfully.
+
 
 
 
