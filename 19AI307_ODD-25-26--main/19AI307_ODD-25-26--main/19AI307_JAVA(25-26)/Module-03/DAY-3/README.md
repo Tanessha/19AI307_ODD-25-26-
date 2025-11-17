@@ -41,8 +41,8 @@ To create an abstract class Decoder with an abstract method decodeMessage(), and
  ```
 /*
 Program to implement a Abstraction using Java
-Developed by: DHINESH R
-RegisterNumber: 212223220019
+Developed by: Tanessha Kannan
+RegisterNumber: 212223040225
 */
 ```
 
@@ -132,4 +132,5 @@ public class Main {
 
 ## RESULT:
 Therefore the program successfully decodes messages using the rules defined for AlphaAgent and BetaAgent.
+
 
