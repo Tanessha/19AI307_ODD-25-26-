@@ -21,16 +21,12 @@ To write a Java program that reads an array of integers and finds the index of a
 
 6.End the program.	
 
-
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: DHINESH R
-RegisterNumber: 212223220019 
+Developed by: Tanessha Kannan
+RegisterNumber: 212223040225 
 */
 ```
 
@@ -62,9 +58,6 @@ public class Main {
 }
 ```
 
-
-
-
 ## OUTPUT:
 <img width="558" height="590" alt="image" src="https://github.com/user-attachments/assets/0d53717f-affe-4aaf-b448-35ef728bee48" />
 
@@ -72,4 +65,5 @@ public class Main {
 
 ## RESULT:
 Therefore the program successfully searches the array for the given element.
+
 
