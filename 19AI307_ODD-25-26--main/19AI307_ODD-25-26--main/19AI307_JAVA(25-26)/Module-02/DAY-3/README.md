@@ -30,16 +30,12 @@ To write a Java program that defines a class BankAccount with private attributes
 
 9. Close the Scanner and end the program.
 
-
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: DHINESH R
-RegisterNumber: 212223220019
+Developed by: Tanessha Kannan
+RegisterNumber: 212223040225
 */
 ```
 
@@ -92,8 +88,7 @@ public class prog {
 ## OUTPUT:
 <img width="826" height="465" alt="image" src="https://github.com/user-attachments/assets/972c4fcf-d9d0-43f8-bc30-518764a4d55e" />
 
-
-
 ## RESULT:
 Therfore the program successfully stores account details using setter methods and retrieves them using getter methods.
+
 
