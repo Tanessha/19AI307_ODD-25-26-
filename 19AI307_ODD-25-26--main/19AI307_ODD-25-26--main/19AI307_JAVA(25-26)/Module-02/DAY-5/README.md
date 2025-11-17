@@ -24,16 +24,12 @@ To create an Employee class where the display() method returns the current objec
 
 8. Call both display().printName() and show() to demonstrate method chaining.
 
-
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: DHINESH R
-RegisterNumber: 212223220019 
+Developed by: Tanessha Kannan
+RegisterNumber: 212223040225
 */
 ```
 
@@ -68,8 +64,6 @@ class prog {
     }
 }
 ```
-
-
 ## OUTPUT:
 
 <img width="686" height="326" alt="image" src="https://github.com/user-attachments/assets/954fafa4-a638-4044-b666-3322017194cd" />
@@ -77,3 +71,4 @@ class prog {
 
 ## RESULT:
 Therefore the program successfully returns the current object using this inside the display() method.
+
