@@ -17,14 +17,12 @@ To write a Java program that finds the absolute value of a given number using th
 
 5.End the program.
 
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: DHINESH R
-RegisterNumber: 212223220019 
+Developed by: Tanessha Kannan
+RegisterNumber: 212223040225
 */
 ```
 
@@ -51,3 +49,4 @@ public class demo
 
 ## RESULT:
 Therefore the program successfully reads a number and calculates its absolute value.
+
