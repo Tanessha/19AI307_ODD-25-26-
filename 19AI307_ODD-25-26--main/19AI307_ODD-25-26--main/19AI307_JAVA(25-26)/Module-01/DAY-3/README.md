@@ -3,7 +3,6 @@
 ## QUESTION:
 Display Factors of a Number
 
-
 ## AIM:
 To write a Java program that reads an integer from the user and displays all the factors of the given number.
 
@@ -18,17 +17,14 @@ To write a Java program that reads an integer from the user and displays all the
 
 5.End the program.
 
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by: DHINESH R
-RegisterNumber: 212223220019
+Developed by: Tanessha Kannan
+RegisterNumber: 212223040225
 */
 ```
-
 ## SOURCE CODE:
 ```
 import java.util.Scanner;
@@ -47,13 +43,11 @@ public class Factors {
     }
 }
 ```
-
-
-
 ## OUTPUT:
 <img width="783" height="324" alt="image" src="https://github.com/user-attachments/assets/aec35b44-acab-4431-893b-df99fc8c8cd4" />
 
 
 ## RESULT:
 Therefore, the program successfully reads a number from the user and computes its factors.
+
 
