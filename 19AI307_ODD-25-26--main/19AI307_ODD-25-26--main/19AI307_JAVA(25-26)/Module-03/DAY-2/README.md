@@ -19,15 +19,12 @@ To create a Java program demonstrating method overriding by defining a base clas
 
 6. Call the speedUp(increment) method to show polymorphic behavior.
 
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: DHINESH R
-RegisterNumber:  212223220019
+Developed by: Tanessha Kannan
+RegisterNumber:  212223040225
 */
 ```
 
@@ -83,17 +80,10 @@ public class TestVehicles {
     }
 }
 ```
-
-
-
-
-
-
 ## OUTPUT:
 <img width="921" height="437" alt="image" src="https://github.com/user-attachments/assets/5c317382-efe2-4ec9-a2cf-67b2d4db68b4" />
 
-
-
 ## RESULT:
 Therefore the  program successfully demonstrates method overriding by applying different speed increase behaviors for car and bicycle.
+
 
