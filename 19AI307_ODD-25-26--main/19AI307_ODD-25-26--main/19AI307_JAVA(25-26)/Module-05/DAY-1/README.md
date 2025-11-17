@@ -19,14 +19,12 @@ To write a Java program that demonstrates stream chaining by placing a BufferedR
 
 6. Catch any IOException and display an appropriate error message.
 
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a InputStreamReader using Java
-Developed by: DHINESH R
-RegisterNumber: 212223220019 
+Developed by: Tanessha Kannan
+RegisterNumber: 212223040225 
 */
 ```
 
@@ -60,4 +58,5 @@ public class ChainingStreamsExample {
 
 ## RESULT:
 Therefore the program successfully demonstrates chaining of input streams by reading user data through a BufferedReader wrapped over an InputStreamReader.
+
 
