@@ -5,8 +5,6 @@ You wrote a program that stores some input strings into a String array and print
 However, you're getting a NullPointerException.
 What should you check in your array before calling .toUpperCase() on a element?
 
-
-
 ## AIM:
 To write a Java program that demonstrates a NullPointerException when calling .toUpperCase() on a null string, and to show how to handle it safely.
 
@@ -23,14 +21,12 @@ To write a Java program that demonstrates a NullPointerException when calling .t
 
 6. Close the scanner.
 
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a Exception Handling using Java
-Developed by: DHINESH R
-RegisterNumber:  212223220019
+Developed by: Tanessha Kanan
+RegisterNumber:  212223040225
 */
 ```
 
@@ -56,10 +52,9 @@ public class NullPointerArrayExample {
 }
 ```
 
-
 ## OUTPUT:
 <img width="624" height="359" alt="image" src="https://github.com/user-attachments/assets/8c3a3da5-a663-4aa0-8433-b5ca5dbd4108" />
 
-
 ## RESULT:
 Therefore the program successfully demonstrates how a NullPointerException occurs when calling .toUpperCase() on a null value.
+
