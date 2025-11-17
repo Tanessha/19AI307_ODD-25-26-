@@ -25,14 +25,12 @@ To write a Java program that serializes a collection of Student objects (ArrayLi
 
 9. Close the scanner.
 
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a Serialization and Deserialization using Java
-Developed by: DHINESH R 
-RegisterNumber:  212223220019
+Developed by: Tanessha Kannan
+RegisterNumber:  212223040225
 */
 ```
 
@@ -119,13 +117,11 @@ public class StudentSerializationUserInput {
 }
 ```
 
-
 ## OUTPUT:
 <img width="1253" height="531" alt="image" src="https://github.com/user-attachments/assets/b017eac9-5975-417a-b46a-fa465087a91b" />
 
-
-
 ## RESULT:
 Therfor the program successfully serializes an ArrayList of Student objects into a file and restores them through deserialization.
+
 
 
