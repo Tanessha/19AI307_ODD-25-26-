@@ -31,16 +31,12 @@ To develop a Java program that uses the Factory Pattern to generate different ty
 
 12. Close the scanner after exiting the loop.
 
-
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a Abstract Factory Pattern using Java
-Developed by: DHINESH R
-RegisterNumber: 212223220019
+Developed by: Tanessha Kannan
+RegisterNumber: 212223040225
 */
 ```
 
@@ -96,13 +92,10 @@ public class Main {
 }
 ```
 
-
-
-
-
 ## OUTPUT:
 <img width="943" height="423" alt="image" src="https://github.com/user-attachments/assets/4bf885fa-c016-47dd-bfe0-edf37e8a39e5" />
 
 
 ## RESULT:
 Therefore the program successfully creates and sends the appropriate notification type using the Factory Pattern.
+
