@@ -19,15 +19,12 @@ To write a Java program that defines an enum named GameLevel with constants EASY
 
 6. Close the scanner in the finally block.
 
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: DHINESH R
-RegisterNumber: 212223220019 
+Developed by: Tanessha Kannan
+RegisterNumber: 212223040225 
 */
 ```
 
@@ -56,15 +53,10 @@ public class Game {
 }
 
 ```
-
-
-
-
 ## OUTPUT:
 <img width="815" height="326" alt="image" src="https://github.com/user-attachments/assets/fe75fd02-00e4-4672-8233-93e35f565e9f" />
 
-
-
 ## RESULT:
 Therefore the program successfully reads a game level from the user and maps it to the corresponding enum constant.
+
 
