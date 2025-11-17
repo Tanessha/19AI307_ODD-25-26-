@@ -20,16 +20,12 @@ To write a Java program that defines a method cube(int x) which internally calls
 
 5. End the program.
 
-
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a Methods using Java
-Developed by: DHINESH R 
-RegisterNumber: 212223220019  
+Developed by: Tanessha Kannan
+RegisterNumber: 212223040225
 */
 ```
 
@@ -64,7 +60,6 @@ public class main
 ## OUTPUT:
 <img width="392" height="243" alt="image" src="https://github.com/user-attachments/assets/aa929a40-c871-4a15-8d09-12604778a14b" />
 
-
-
 ## RESULT:
 Therefore the program successfully computes the cube of a number by internally using the square method.
+
