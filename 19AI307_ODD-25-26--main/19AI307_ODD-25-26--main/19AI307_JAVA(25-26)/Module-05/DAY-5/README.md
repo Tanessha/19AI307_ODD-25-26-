@@ -29,8 +29,8 @@ To write a Java program that reads two integers from the user and swaps their va
  ```
 /*
 Program to implement a Synchronization concept using Java
-Developed by: DHINESH R
-RegisterNumber: 212223220019 
+Developed by: Tanessha Kannan
+RegisterNumber: 212223040225
 */
 ```
 
@@ -66,5 +66,6 @@ public class SwapUsingSynchronized {
 
 ## RESULT:
 Therefore the program successfully swaps two integers within a synchronized block, ensuring safe and controlled access.
+
 
 
